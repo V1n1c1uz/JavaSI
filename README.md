@@ -17,7 +17,7 @@ Foco desse repositorio é postar os code e exercicios Java que fizemos e estamos
 
 <img src="src/images/ExtensionPack.png">
 
-<br><br>
+
 
 # **⚙️COMO CONFIGURAR O AMBIENTE**
 
@@ -36,7 +36,6 @@ Foco desse repositorio é postar os code e exercicios Java que fizemos e estamos
 <br>
 Caso precise de ajuda para instalar o JDK <a href="https://www.youtube.com/watch?v=X8AnVQ-GqLU&t=300s&ab_channel=CFBCursos">clique aqui.</a>
 
-<br>
 
 # **RODAR O PROJETO** ##
 Depois de ter seguido os passos acima ao iniciar um projeto Java irá aparecer isso em sua tela: 
