@@ -44,10 +44,30 @@ Você vai precisar criar uma variável de ambiente pro JDK é bem simples Botão
 Caso precise de ajuda para instalar o JDK <a href="https://www.youtube.com/watch?v=X8AnVQ-GqLU&t=300s&ab_channel=CFBCursos">clique aqui.</a>
 
 
-# **RODAR O PROJETO** ##
+# **🏃RODAR O PROJETO** ##
 Depois de ter seguido os passos acima ao iniciar um projeto Java irá aparecer isso em sua tela: 
 
 <img src="src/images/rodarProjeto.png">
 <br>
 
 Prontinho tudo funcionando! caso não queira instalar nada em sua maquina utilize um compilador online como ó <a href="https://www.onlinegdb.com/online_java_compiler">onlinegdb</a>
+
+# **📋CLONAR O PROJETO PARA SUA MÁQUINA**
+
+<h2 style="font-weight: bolder">SEM GIT</h2>
+Caso não queira baixar o git (Não recomendado). 
+<img src="src/images/clone.png">
+<p>Vai em code e clique em Download ZIP, extraia o zip na pasta que deseja e pronto já pode começar a codar!</p>
+
+<h2 style="font-weight: bolder">COM GIT</h2>
+
+Caso você não tenha o git <a href="https://git-scm.com/downloads">clique aqui.</a>
+Selecione o Download conforme o seu sistema operacional.
+<img src="src/images/git.png">
+
+<h2 style="font-weight: bolder">APÓS INSTALAR</h2>
+
+Vai na pasta que deseja que fique seu projeto abra o terminal use o comando **git clone https://github.com/V1n1c1uz/JavaSI.git** aperte ENTER e pronto já pode começar a codar!
+
+<img src="src/images/gitclone.png">
+
