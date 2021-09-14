@@ -34,6 +34,13 @@ Foco desse repositorio é postar os code e exercicios Java que fizemos e estamos
 <a href="https://www.oracle.com/br/java/technologies/javase-downloads.html"><img src="src/images/jdk.png" ></a>
 <br>
 <br>
+
+<strong>3° VARIÁVEL DE AMBIENTE</strong>
+<br>
+Você vai precisar criar uma variável de ambiente pro JDK é bem simples Botão Win depois pesquisa "variável de ambiente" clica depois vai em Avançado logo em baixo vai ter "Variáveis de ambiente" clique vai abrir uma tela vai em "Variaveis do sistema" procure por "Path" selecione editar vai em novo e bota o caminho do bin do seu JDK segue imagem abaixo: 
+<br>
+<img src="src/images/variaveisdeAmbiente.png" style="margin-top: 4px">
+
 Caso precise de ajuda para instalar o JDK <a href="https://www.youtube.com/watch?v=X8AnVQ-GqLU&t=300s&ab_channel=CFBCursos">clique aqui.</a>
 
 
