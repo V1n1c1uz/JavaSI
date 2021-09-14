@@ -4,7 +4,7 @@ Foco desse repositorio é postar os code e exercicios Java que fizemos e estamos
 
 # **⚙️COMO CONFIGURAR O AMBIENTE**
 
-<strong>1 VOCÊ DEVE INSTALAR O VISUAL CODE</strong>
+<strong>1 VOCÊ DEVE INSTALAR O VISUAL CODE (CASO NÃO TENHA) </strong>
 
 <a href="https://code.visualstudio.com/"><img src="src/images/vscode.png"></a>
 
