@@ -61,9 +61,8 @@ Caso não queira baixar o git (Não recomendado).
 <p>Vai em code e clique em Download ZIP, extraia o zip na pasta que deseja e pronto já pode começar a codar!</p>
 
 <h2 style="font-weight: bolder">COM GIT</h2>
-
-Caso você não tenha o git <a href="https://git-scm.com/downloads">clique aqui.</a>
-Selecione o Download conforme o seu sistema operacional.
+<p>Caso você não tenha o git <a href="https://git-scm.com/downloads">clique aqui.</a>
+Selecione o Download conforme o seu sistema operacional.</p>
 <img src="src/images/git.png">
 
 <h2 style="font-weight: bolder">APÓS INSTALAR</h2>
