@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 public class exercicio9 {
   public static void main(String[] args) {
-    int contador = 1;
-    int media = 0, nota = 0, somaNota = 0;
+    int contador = 1, media = 0, nota = 0, somaNota = 0;
     Scanner scanner = new Scanner(System.in);
 
     while(contador <= 3){
