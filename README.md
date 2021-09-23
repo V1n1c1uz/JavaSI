@@ -72,12 +72,14 @@ Vai na pasta que deseja que fique seu projeto abra o terminal use o comando **gi
 <img src="src/images/gitclone.png">
 
 # **📂CODES E EXERCÍCIOS** #
+
 Basta abrir a pasta src que está tudo lá de maneira organizada.
 
 
 **CODE - TUDO QUE NÃO SEJA EXERCÍCIOS | EXEMPLOS ETCS...**
 
 - exemploWhile.java
+
 #
 
 **EXERCÍCIOS - PASSADO PELO PROFESSOR OU PARA SEU ESTUDO**
