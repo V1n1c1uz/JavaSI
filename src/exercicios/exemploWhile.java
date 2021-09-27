@@ -1,4 +1,4 @@
-package code;
+package exercicios;
 
 public class exemploWhile {
 
