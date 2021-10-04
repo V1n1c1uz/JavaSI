@@ -9,13 +9,13 @@ public class exercicio13 {
   double media = 0;
   Scanner scanner = new Scanner(System.in);
 
-  for (int i = 1; i <= 3; i++) {
+  for (int i = 1; i <= 12; i++) {
     System.out.println("Informe a nota:");
     nota = scanner.nextInt();
 
     soma = soma + nota;
     media = soma / 12;
-    
+
     }
     scanner.close();
     System.out.println("A media é: "+ media);
