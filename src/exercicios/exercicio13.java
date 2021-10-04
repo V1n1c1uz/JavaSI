@@ -5,10 +5,11 @@ import java.util.Scanner;
 public class exercicio13 {
   public static void main(String[] args){
    
-  int nota, soma = 0, media =0 ;
+  int nota, soma = 0;
+  double media = 0;
   Scanner scanner = new Scanner(System.in);
 
-  for (int i = 1; i <= 12; i++) {
+  for (int i = 1; i <= 3; i++) {
     System.out.println("Informe a nota:");
     nota = scanner.nextInt();
     soma = soma + nota;
