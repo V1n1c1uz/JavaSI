@@ -12,8 +12,10 @@ public class exercicio13 {
   for (int i = 1; i <= 3; i++) {
     System.out.println("Informe a nota:");
     nota = scanner.nextInt();
+
     soma = soma + nota;
     media = soma / 12;
+    
     }
     scanner.close();
     System.out.println("A media é: "+ media);
