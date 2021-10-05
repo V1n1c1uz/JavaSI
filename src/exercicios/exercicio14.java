@@ -58,7 +58,7 @@ public class exercicio14 {
 
         break;
     }
-    
+
     scanner.close();
   }
 
