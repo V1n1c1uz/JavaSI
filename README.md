@@ -87,4 +87,7 @@ Basta abrir a pasta src que está tudo lá de maneira organizada.
 - VA1.java
 - exercicio9.java
 - exercicio10.java
+- exercicio11.java
+- exercicio12.java
+- exercicio13.java
 #
