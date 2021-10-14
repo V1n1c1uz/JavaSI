@@ -78,6 +78,7 @@ Basta abrir a pasta src que está tudo lá de maneira organizada.
 
 **CODE - TUDO QUE NÃO SEJA EXERCÍCIOS | EXEMPLOS ETCS...**
 
+- exemploCase.java
 - exemploWhile.java
 - exemploSwitch.java
 
