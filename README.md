@@ -79,6 +79,7 @@ Basta abrir a pasta src que está tudo lá de maneira organizada.
 **CODE - TUDO QUE NÃO SEJA EXERCÍCIOS | EXEMPLOS ETCS...**
 
 - exemploWhile.java
+- exemploSwitch.java
 
 #
 
@@ -87,4 +88,8 @@ Basta abrir a pasta src que está tudo lá de maneira organizada.
 - VA1.java
 - exercicio9.java
 - exercicio10.java
+- exercicio11.java
+- exercicio12.java
+- exercicio13.java
+- exercicio14.java
 #
