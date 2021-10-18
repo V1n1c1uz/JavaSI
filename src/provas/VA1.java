@@ -6,7 +6,7 @@ b) identificar qual é a menor e maior nota.
 
 */
 
-package exercicios;
+package provas;
 import java.util.Scanner;
 
 class calcularMedia {
