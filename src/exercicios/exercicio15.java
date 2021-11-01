@@ -9,7 +9,7 @@ public class exercicio15 {
     int[] notas = new int[3];
     int nota;
 
-    for(int i = 0; 1 < notas.length; i++) {
+    for (int i = 0; 1 < notas.length; i++) {
       System.out.println("Informe a nota: ");
       nota = scanner.nextInt();
 
