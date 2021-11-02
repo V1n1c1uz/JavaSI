@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Exercicio17 {
   public static void main(String[] args) {
 
-    int idade[] = new int[10];
+    int notapesquisa = 0, idade[] = new int[10];
     String nome[] = new String[10];
-    int notapesquisa = 0;
     Scanner scanner = new Scanner(System.in);
+
     for (int i = 0; i < idade.length; i++) {
 
       System.out.println("Informe seu nome: ");
