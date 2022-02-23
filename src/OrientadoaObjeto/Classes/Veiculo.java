@@ -1,4 +1,4 @@
-package OrientadoaObjeto;
+package OrientadoaObjeto.Classes;
 
 class Veiculo {
 
