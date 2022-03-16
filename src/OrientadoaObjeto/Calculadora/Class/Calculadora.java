@@ -1,4 +1,4 @@
-package OrientadoaObjeto.Classes;
+package OrientadoaObjeto.Calculadora.Class;
 
 public class Calculadora {
   public double numberOne;

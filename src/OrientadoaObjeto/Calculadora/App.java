@@ -1,9 +1,9 @@
-package OrientadoaObjeto;
+package OrientadoaObjeto.Calculadora;
 
 import java.util.Scanner;
 
-import OrientadoaObjeto.Classes.Calculadora;
-public class Home {
+import OrientadoaObjeto.Calculadora.Class.Calculadora;
+public class App {
 
   public static void main(String[] args) {
 
