@@ -3,7 +3,7 @@ package OrientadoaObjeto;
 import java.util.Scanner;
 
 import OrientadoaObjeto.Classes.Calculadora;
-public class Principal {
+public class Home {
 
   public static void main(String[] args) {
 
