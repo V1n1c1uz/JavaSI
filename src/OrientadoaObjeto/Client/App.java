@@ -18,12 +18,12 @@ public class App {
     String name = scanner.next().toLowerCase();
     client.setName(name);
 
-    System.out.println("Informe ó tipo J ou P");
+    System.out.println("Informe ó tipo J ou F");
     String type = scanner.next().toLowerCase();
     client.setType(type);
 
-    System.out.printf("Codigo: %d%nNome: %s%nTipo: %s", code, name, type);
-    
+    System.out.printf("Codigo: %d%nNome: %s%nTipo: %s", client.getCode(), client.getName(), client.getType());
+
     scanner.close();
 
   }

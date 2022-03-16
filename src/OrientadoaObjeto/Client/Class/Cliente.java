@@ -7,7 +7,8 @@ public class Cliente {
   private String type;
 
   public void setCode(int code) {
-    if (code < 1 || code > 10000) throw new RuntimeException("Codigo inválido, Deve está entre 1 e 10000");
+    if (code < 1 || code > 10000)
+      throw new RuntimeException("Codigo inválido, Deve está entre 1 e 10000");
     this.code = code;
   }
 
@@ -17,7 +18,8 @@ public class Cliente {
 
   public void setName(String name) {
     int value = name.length();
-    if (value < 5 || value > 40) throw new RuntimeException("Nome inválido, Deve ter 5 a 40 caracteres");
+    if (value < 5 || value > 40)
+      throw new RuntimeException("Nome inválido, Deve ter 5 a 40 caracteres");
     this.name = name;
   }
 
@@ -26,8 +28,11 @@ public class Cliente {
   }
 
   public void setType(String type) {
-    if (!type.equals("f") && !type.equals("j")) throw new RuntimeException("Tipo inválido, Deve ser F ou J");
-    this.type = type;
+    if (type.equals("f") || type.equals("j")) {
+      this.type = type;
+    } else {
+      throw new RuntimeException("Tipo inválido, Deve ser F ou J");
+    }
   }
 
   public String getType() {
